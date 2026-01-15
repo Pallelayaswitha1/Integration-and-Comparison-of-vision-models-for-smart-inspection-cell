@@ -1,0 +1,5 @@
+steps to proceed:- 
+define: Conveyor_Frame:- 1450,-1270,850
+define Inspection_Table_Frame: 1000,1300,2000
+define Ble_Bin_Frame: -400,1000,1000
+define Orange_Bin_Frame: -1200,500, 1000
