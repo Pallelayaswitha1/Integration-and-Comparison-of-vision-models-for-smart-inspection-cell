@@ -1,4 +1,5 @@
-# 🛠️ Vision-Based Surface Defect Inspection of Automotive Spur Gears
+# 🛠️ Integration and Comparison of vision models for smart inspection cell
+
 
 This repository contains the implementation and evaluation of a **deep learning–based computer vision system** for automated surface defect inspection of automotive spur gears. The project focuses on detecting and classifying common manufacturing defects using **YOLOv8** and **MobileNetV2**, with an emphasis on **accuracy, robustness, and inference latency**.
 
